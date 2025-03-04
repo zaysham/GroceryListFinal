@@ -11,23 +11,6 @@ export default function List() {
     "Apples",
     "Bananas",
     "Bread",
-    "Milk",
-    "Eggs",
-    "Cheese",
-    "Chicken Breast",
-    "Rice",
-    "Pasta",
-    "Tomatoes",
-    "Lettuce",
-    "Carrots",
-    "Potatoes",
-    "Onions",
-    "Olive Oil",
-    "Cereal",
-    "Yogurt",
-    "Orange Juice",
-    "Peanut Butter",
-    "Coffee",
   ];
   const completedList: string[] = []; //array of completed items
 
