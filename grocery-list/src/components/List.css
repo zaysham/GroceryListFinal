@@ -1,0 +1,32 @@
+.container{
+    height: auto;
+    display: block; 
+    align-items: flex-start;
+    flex-wrap: nowrap;
+    width: 100%;
+    background-color: beige;
+    padding-top: 1%;
+    
+}
+
+
+
+.firstCol{
+    width: 47%; 
+    background-color: paleturquoise;
+    margin-top: 1%;
+    height: 100%; 
+}
+
+.secondCol{
+    width: 47%; 
+    background-color: palegreen; 
+    margin-top: 1%; 
+    height: 100%; 
+}
+
+h1{
+    padding-top: 1%;
+    font-family: "Bangers", serif;
+}
+
